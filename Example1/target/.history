@@ -1,0 +1,14 @@
+sbt
+clear
+clean
+compile
+clean
+compile
+exit
+compile
+console
+q
+console
+compile
+test
+run

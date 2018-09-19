@@ -1,0 +1,31 @@
+compile
+run
+test
+clean
+clear
+clean
+clear
+test
+clean
+exit
+test
+clear
+compile
+run
+compile
+run
+scala
+exit
+scala
+exit
+compile
+test
+clear
+clean
+exit
+compile 
+run
+submit vnaveen0@gmail.com TwiM1T3aegwW1cPs
+exit
+sbt vnaveen0@gmail.com Bcv4F44TJzbHh082
+submit vnaveen0@gmail.com Bcv4F44TJzbHh082
